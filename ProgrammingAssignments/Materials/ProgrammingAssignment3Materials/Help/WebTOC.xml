@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome to the [TODO: Add project name]" Url="html/893b9667-cb30-4fec-81aa-6fe51e74dd04.htm" />
+  <HelpTOCNode Id="dcd8b8ad-0622-42af-926f-c7c744becf85" Title="Version History" Url="html/18f0c95c-dbca-4bc5-8d42-6aa7a4844709.htm">
+    <HelpTOCNode Title="Version 1.0.0.0" Url="html/c75d2b2b-e33c-4292-af02-b42010f36c67.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="9cd123f0-e858-4d4f-8562-fec53413b87f" Title="ProgrammingAssignment3" Url="html/020c38fe-3198-6bcb-6348-16a80197ce42.htm">
+    <HelpTOCNode Id="970e21b3-dcbe-4bd8-a30f-96f739e3bc4c" Title="Game1 Class" Url="html/80e163f6-12b0-536a-db9c-7fe8a2cc2c2f.htm">
+      <HelpTOCNode Title="Game1 Constructor " Url="html/30d27ae0-ad0d-f9f8-326f-bf465f8f7e46.htm" />
+      <HelpTOCNode Id="86b15881-0087-4f49-ae49-2572286841bf" Title="Game1 Methods" Url="html/bb7bf5ae-4228-18b8-7472-6ab3029c83ac.htm">
+        <HelpTOCNode Title="Draw Method " Url="html/36b6e92a-94a2-b0f6-d111-a76a38f14019.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/e9c33a30-00fc-7e1a-384a-a72f60a62421.htm" />
+        <HelpTOCNode Title="LoadContent Method " Url="html/c873234a-1586-94c8-d5b5-cd4d8fdedceb.htm" />
+        <HelpTOCNode Title="UnloadContent Method " Url="html/244315ed-55ff-c355-1b14-6e74b3047cb5.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/2e5c2505-fe16-16a0-acc3-d3eca653e38f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Program Class" Url="html/46e2abcc-273c-de73-91fc-19f6567c490d.htm" />
+    <HelpTOCNode Id="6e6f7311-8fee-46bc-8b40-a33c258c2b25" Title="Rock Class" Url="html/8115833c-4b2d-0c3c-4f12-660bc020f46a.htm">
+      <HelpTOCNode Title="Rock Constructor " Url="html/c64c7dc2-e917-56b6-8e2b-e92ee7dd58ee.htm" />
+      <HelpTOCNode Id="8eb3872e-e8d8-45d9-a779-7825d4fe53d4" Title="Rock Properties" Url="html/4c327612-d139-3ded-ae06-07fa01a7ffb0.htm">
+        <HelpTOCNode Title="OutsideWindow Property " Url="html/25c2c297-232d-7aaf-a0ce-292f33d2d305.htm" />
+        <HelpTOCNode Title="Velocity Property " Url="html/dab80f12-5fa5-585b-ceae-78b91431ab7e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d636ef0c-7fa2-4cd2-8f98-320487e84fba" Title="Rock Methods" Url="html/6aee3152-a6db-bb78-a17f-e61b3cc5bbae.htm">
+        <HelpTOCNode Title="Draw Method " Url="html/898412a2-fb26-b2a5-ea5c-39d68b3a93d9.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/840c2904-b3aa-aa28-2770-a345ef51a1c8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

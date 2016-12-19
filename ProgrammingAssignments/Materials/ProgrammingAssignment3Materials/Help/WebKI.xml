@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Draw method">
+    <HelpKINode Title="Game1.Draw Method " Url="html/36b6e92a-94a2-b0f6-d111-a76a38f14019.htm" />
+    <HelpKINode Title="Rock.Draw Method " Url="html/898412a2-fb26-b2a5-ea5c-39d68b3a93d9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Game1 class">
+    <HelpKINode Title="Game1 Class" Url="html/80e163f6-12b0-536a-db9c-7fe8a2cc2c2f.htm" />
+    <HelpKINode Title="about Game1 class" Url="html/80e163f6-12b0-536a-db9c-7fe8a2cc2c2f.htm" />
+    <HelpKINode Title="constructor" Url="html/30d27ae0-ad0d-f9f8-326f-bf465f8f7e46.htm" />
+    <HelpKINode Title="methods" Url="html/bb7bf5ae-4228-18b8-7472-6ab3029c83ac.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Game1.Draw method" Url="html/36b6e92a-94a2-b0f6-d111-a76a38f14019.htm" />
+  <HelpKINode Title="Game1.Game1 constructor" Url="html/30d27ae0-ad0d-f9f8-326f-bf465f8f7e46.htm" />
+  <HelpKINode Title="Game1.Initialize method" Url="html/e9c33a30-00fc-7e1a-384a-a72f60a62421.htm" />
+  <HelpKINode Title="Game1.LoadContent method" Url="html/c873234a-1586-94c8-d5b5-cd4d8fdedceb.htm" />
+  <HelpKINode Title="Game1.UnloadContent method" Url="html/244315ed-55ff-c355-1b14-6e74b3047cb5.htm" />
+  <HelpKINode Title="Game1.Update method" Url="html/2e5c2505-fe16-16a0-acc3-d3eca653e38f.htm" />
+  <HelpKINode Title="Initialize method" Url="html/e9c33a30-00fc-7e1a-384a-a72f60a62421.htm" />
+  <HelpKINode Title="LoadContent method" Url="html/c873234a-1586-94c8-d5b5-cd4d8fdedceb.htm" />
+  <HelpKINode Title="OutsideWindow property" Url="html/25c2c297-232d-7aaf-a0ce-292f33d2d305.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/46e2abcc-273c-de73-91fc-19f6567c490d.htm" />
+    <HelpKINode Title="about Program class" Url="html/46e2abcc-273c-de73-91fc-19f6567c490d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ProgrammingAssignment3 namespace" Url="html/020c38fe-3198-6bcb-6348-16a80197ce42.htm" />
+  <HelpKINode Title="ProgrammingAssignment3.Game1 class" Url="html/80e163f6-12b0-536a-db9c-7fe8a2cc2c2f.htm" />
+  <HelpKINode Title="ProgrammingAssignment3.Program class" Url="html/46e2abcc-273c-de73-91fc-19f6567c490d.htm" />
+  <HelpKINode Title="ProgrammingAssignment3.Rock class" Url="html/8115833c-4b2d-0c3c-4f12-660bc020f46a.htm" />
+  <HelpKINode Title="Rock class">
+    <HelpKINode Title="Rock Class" Url="html/8115833c-4b2d-0c3c-4f12-660bc020f46a.htm" />
+    <HelpKINode Title="about Rock class" Url="html/8115833c-4b2d-0c3c-4f12-660bc020f46a.htm" />
+    <HelpKINode Title="constructor" Url="html/c64c7dc2-e917-56b6-8e2b-e92ee7dd58ee.htm" />
+    <HelpKINode Title="methods" Url="html/6aee3152-a6db-bb78-a17f-e61b3cc5bbae.htm" />
+    <HelpKINode Title="properties" Url="html/4c327612-d139-3ded-ae06-07fa01a7ffb0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Rock.Draw method" Url="html/898412a2-fb26-b2a5-ea5c-39d68b3a93d9.htm" />
+  <HelpKINode Title="Rock.OutsideWindow property" Url="html/25c2c297-232d-7aaf-a0ce-292f33d2d305.htm" />
+  <HelpKINode Title="Rock.Rock constructor" Url="html/c64c7dc2-e917-56b6-8e2b-e92ee7dd58ee.htm" />
+  <HelpKINode Title="Rock.Update method" Url="html/840c2904-b3aa-aa28-2770-a345ef51a1c8.htm" />
+  <HelpKINode Title="Rock.Velocity property" Url="html/dab80f12-5fa5-585b-ceae-78b91431ab7e.htm" />
+  <HelpKINode Title="UnloadContent method" Url="html/244315ed-55ff-c355-1b14-6e74b3047cb5.htm" />
+  <HelpKINode Title="Update method">
+    <HelpKINode Title="Game1.Update Method " Url="html/2e5c2505-fe16-16a0-acc3-d3eca653e38f.htm" />
+    <HelpKINode Title="Rock.Update Method " Url="html/840c2904-b3aa-aa28-2770-a345ef51a1c8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Velocity property" Url="html/dab80f12-5fa5-585b-ceae-78b91431ab7e.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/c75d2b2b-e33c-4292-af02-b42010f36c67.htm" />
+    <HelpKINode Title="history" Url="html/18f0c95c-dbca-4bc5-8d42-6aa7a4844709.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/893b9667-cb30-4fec-81aa-6fe51e74dd04.htm" />
+</HelpKI>

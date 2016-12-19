@@ -1,0 +1,10 @@
+/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 3/ProgrammingAssignment3/ProgrammingAssignment3/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 3/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/OpenTK.dll.config
+/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 3/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/Tao.Sdl.dll.config
+/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 3/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/ProgrammingAssignment3.exe.mdb
+/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 3/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/ProgrammingAssignment3.exe
+/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 3/ProgrammingAssignment3/ProgrammingAssignment3/obj/x86/Debug/ProgrammingAssignment3.exe
+/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 3/ProgrammingAssignment3/ProgrammingAssignment3/obj/x86/Debug/ProgrammingAssignment3.exe.mdb
+/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 3/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/MonoGame.Framework.dll
+/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 3/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/OpenTK.dll
+/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 3/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/Tao.Sdl.dll

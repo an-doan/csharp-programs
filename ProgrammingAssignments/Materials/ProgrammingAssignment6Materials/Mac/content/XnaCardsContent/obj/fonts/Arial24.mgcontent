@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/Tim/Documents/GDD 1200/Programming Assignments/ProgrammingAssignment6/content/XnaCardsContent/fonts/Arial24.spritefont</SourceFile>
+  <SourceTime>2016-02-13T11:53:00-07:00</SourceTime>
+  <DestFile>/Users/Tim/Documents/GDD 1200/Programming Assignments/ProgrammingAssignment6/content/XnaCardsContent/bin/fonts/Arial24.xnb</DestFile>
+  <DestTime>2016-02-13T11:57:18-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-04-29T11:13:03-06:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-04-29T11:13:03-06:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

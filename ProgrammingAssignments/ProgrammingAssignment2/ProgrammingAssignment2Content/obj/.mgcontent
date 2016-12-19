@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/CSharpProjects/ProgrammingAssignments/ProgrammingAssignment2/ProgrammingAssignment2Content/graphics/enemy0.png</File>
+    <File>D:/CSharpProjects/ProgrammingAssignments/ProgrammingAssignment2/ProgrammingAssignment2Content/graphics/enemy1.png</File>
+    <File>D:/CSharpProjects/ProgrammingAssignments/ProgrammingAssignment2/ProgrammingAssignment2Content/graphics/enemy2.png</File>
+  </SourceFiles>
+</SourceFileCollection>
