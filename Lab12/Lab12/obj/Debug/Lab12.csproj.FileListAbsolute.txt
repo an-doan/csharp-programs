@@ -1,0 +1,7 @@
+D:\CSharpProjects\Lab12\Lab12\bin\Debug\Lab12.exe.config
+D:\CSharpProjects\Lab12\Lab12\bin\Debug\Lab12.exe
+D:\CSharpProjects\Lab12\Lab12\bin\Debug\Lab12.pdb
+D:\CSharpProjects\Lab12\Lab12\bin\Debug\ConsoleCards.dll
+D:\CSharpProjects\Lab12\Lab12\obj\Debug\Lab12.csprojResolveAssemblyReference.cache
+D:\CSharpProjects\Lab12\Lab12\obj\Debug\Lab12.exe
+D:\CSharpProjects\Lab12\Lab12\obj\Debug\Lab12.pdb
