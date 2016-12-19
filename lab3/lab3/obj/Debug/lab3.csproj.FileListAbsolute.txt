@@ -1,0 +1,5 @@
+D:\CSharpProjects\lab3\lab3\bin\Debug\lab3.exe.config
+D:\CSharpProjects\lab3\lab3\bin\Debug\lab3.exe
+D:\CSharpProjects\lab3\lab3\bin\Debug\lab3.pdb
+D:\CSharpProjects\lab3\lab3\obj\Debug\lab3.exe
+D:\CSharpProjects\lab3\lab3\obj\Debug\lab3.pdb
