@@ -1,0 +1,12 @@
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Labs\Lab 4 Classes and Objects\Lab4Code MonoGame\Windows\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Labs\Lab 4 Classes and Objects\Lab4Code MonoGame\Windows\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Labs\Lab 4 Classes and Objects\Lab4Code MonoGame\Windows\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Labs\Lab 4 Classes and Objects\Lab4Code MonoGame\Windows\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Labs\Lab 4 Classes and Objects\Lab4Code MonoGame\Windows\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Labs\Lab 4 Classes and Objects\Lab4Code MonoGame\Windows\Lab4\Lab4\obj\Debug\Lab4.pdb
+D:\CSharpProjects\Lab4-Methods\Windows\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\CSharpProjects\Lab4-Methods\Windows\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\CSharpProjects\Lab4-Methods\Windows\Lab4\Lab4\obj\Debug\Lab4.pdb
+D:\CSharpProjects\Lab4-Methods\Windows\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\CSharpProjects\Lab4-Methods\Windows\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\CSharpProjects\Lab4-Methods\Windows\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
