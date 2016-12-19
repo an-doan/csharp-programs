@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/CSharpProjects/GameProject/GameProjectContent/graphics/burger.png</File>
+    <File>D:/CSharpProjects/GameProject/GameProjectContent/graphics/explosion.png</File>
+    <File>D:/CSharpProjects/GameProject/GameProjectContent/graphics/frenchfries.png</File>
+    <File>D:/CSharpProjects/GameProject/GameProjectContent/graphics/teddybear.png</File>
+    <File>D:/CSharpProjects/GameProject/GameProjectContent/graphics/teddybearprojectile.png</File>
+    <File>D:/CSharpProjects/GameProject/GameProjectContent/audio/BurgerDamage.wav</File>
+    <File>D:/CSharpProjects/GameProject/GameProjectContent/audio/BurgerDeath.wav</File>
+    <File>D:/CSharpProjects/GameProject/GameProjectContent/audio/BurgerShot.wav</File>
+    <File>D:/CSharpProjects/GameProject/GameProjectContent/audio/Explosion.wav</File>
+    <File>D:/CSharpProjects/GameProject/GameProjectContent/audio/TeddyBounce.wav</File>
+    <File>D:/CSharpProjects/GameProject/GameProjectContent/audio/TeddyShot.wav</File>
+    <File>D:/CSharpProjects/GameProject/GameProjectContent/fonts/Arial20.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
