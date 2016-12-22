@@ -160,6 +160,12 @@ namespace GameProject
 
                 //add projectile
                 Game1.AddProjectile(newProjectile);
+
+                //play shooting sound if not null
+                if (shootSound != null)
+                {
+                    shootSound.Play();
+                }
             }
         }
 
@@ -203,12 +209,24 @@ namespace GameProject
                 // bounce off top
                 drawRectangle.Y = 0;
                 velocity.Y *= -1;
+
+                //play bounce sound if not null
+                if (bounceSound != null)
+                {
+                    bounceSound.Play();
+                }
             }
             else if ((drawRectangle.Y + drawRectangle.Height) > GameConstants.WindowHeight)
             {
                 // bounce off bottom
                 drawRectangle.Y = GameConstants.WindowHeight - drawRectangle.Height;
                 velocity.Y *= -1;
+
+                //play bounce sound if not null
+                if (bounceSound != null)
+                {
+                    bounceSound.Play();
+                }
             }
         }
         /// <summary>
@@ -218,15 +236,27 @@ namespace GameProject
         {
             if (drawRectangle.X < 0)
             {
-                // bounc off left
+                // bounce off left
                 drawRectangle.X = 0;
                 velocity.X *= -1;
+
+                //play bounce sound if not null
+                if (bounceSound != null)
+                {
+                    bounceSound.Play();
+                }
             }
             else if ((drawRectangle.X + drawRectangle.Width) > GameConstants.WindowWidth)
             {
                 // bounce off right
                 drawRectangle.X = GameConstants.WindowWidth - drawRectangle.Width;
                 velocity.X *= -1;
+
+                //play bounce sound if not null
+                if (bounceSound != null)
+                {
+                    bounceSound.Play();
+                }
             }
         }
 

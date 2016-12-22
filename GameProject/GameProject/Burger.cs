@@ -84,19 +84,33 @@ namespace GameProject
         #region Public methods
 
         /// <summary>
-        /// Updates the burger's location based on mouse. Also fires 
+        /// Updates the burger's location based on keyboard. Also fires 
         /// french fries as appropriate
         /// </summary>
         /// <param name="gameTime">game time</param>
-        /// <param name="mouse">the current state of the mouse</param>
-        public void Update(GameTime gameTime, MouseState mouse)
+        /// <param name="keyboard">the current state of the keyboard</param>
+        public void Update(GameTime gameTime, KeyboardState keyboard)
         {
             // burger should only respond to input if it still has health
             if (health > 0)
             {
-                // move burger using mouse
-                drawRectangle.X = mouse.X;
-                drawRectangle.Y = mouse.Y;
+                // move burger using WASD keys or arrow keys (not required, but this is easier for me to control) on keyboard
+                if (keyboard.IsKeyDown(Keys.W) || keyboard.IsKeyDown(Keys.Up))
+                {
+                    drawRectangle.Y -= GameConstants.BurgerMovementAmount;
+                }
+                if (keyboard.IsKeyDown(Keys.A) || keyboard.IsKeyDown(Keys.Left))
+                {
+                    drawRectangle.X -= GameConstants.BurgerMovementAmount;
+                }
+                if (keyboard.IsKeyDown(Keys.S) || keyboard.IsKeyDown(Keys.Down))
+                {
+                    drawRectangle.Y += GameConstants.BurgerMovementAmount;
+                }
+                if (keyboard.IsKeyDown(Keys.D) || keyboard.IsKeyDown(Keys.Right))
+                { 
+                    drawRectangle.X += GameConstants.BurgerMovementAmount;
+                }
 
                 // clamp burger in window
                 if (drawRectangle.Left < 0)
@@ -125,8 +139,8 @@ namespace GameProject
                     elapsedCooldownMilliseconds += gameTime.ElapsedGameTime.Milliseconds;
 
                     //if cooldown time is equal or greater total cooldown time, allow burger to shoot 
-                    //if left button is released, allow burger to shoot
-                    if (elapsedCooldownMilliseconds >= GameConstants.BurgerTotalCooldownMilliseconds || mouse.LeftButton == ButtonState.Released)
+                    //if space button is released, allow burger to shoot
+                    if (elapsedCooldownMilliseconds >= GameConstants.BurgerTotalCooldownMilliseconds || keyboard.IsKeyUp(Keys.Space))
                     {
                         canShoot = true;
 
@@ -139,26 +153,32 @@ namespace GameProject
                 // timer concept (for animations) introduced in Chapter 7
 
                 // shoot if appropriate
-                //check if left button was pressed and can shoot
-                if (mouse.LeftButton == ButtonState.Pressed && canShoot)
+                //check if spacce was pressed and can shoot
+                if (keyboard.IsKeyDown(Keys.Space) && canShoot)
                 {
-                        //create x and y values for projectile
-                        int projectileX = drawRectangle.X + drawRectangle.Width / 2;
+                    //create x and y values for projectile
+                    int projectileX = drawRectangle.X + drawRectangle.Width / 2;
 
-                        //minus the offset so that the french fries are offset above, since the french fries move up
-                        int projectileY = drawRectangle.Y + drawRectangle.Height / 2 - GameConstants.FrenchFriesProjectileOffset;
+                    //minus the offset so that the french fries are offset above, since the french fries move up
+                    int projectileY = drawRectangle.Y + drawRectangle.Height / 2 - GameConstants.FrenchFriesProjectileOffset;
 
-                        //create new projectile 
-                        //velocity is negative so that french fries go up
+                    //create new projectile 
+                    //velocity is negative so that french fries go up
 
-                        Projectile newProjectile = new Projectile(ProjectileType.FrenchFries,
-                            Game1.GetProjectileSprite(ProjectileType.FrenchFries),
-                            projectileX, projectileY, -(GameConstants.FrenchFriesProjectileSpeed));
-                        Game1.AddProjectile(newProjectile);
+                    Projectile newProjectile = new Projectile(ProjectileType.FrenchFries,
+                        Game1.GetProjectileSprite(ProjectileType.FrenchFries),
+                        projectileX, projectileY, -(GameConstants.FrenchFriesProjectileSpeed));
+                    Game1.AddProjectile(newProjectile);
 
-                        //set canShoot to false so that burger cannot continuously shoot
-                        canShoot = false;
-                    
+                    //play shooting sound if not null
+                    if (shootSound != null)
+                    {
+                        shootSound.Play();
+                    }
+
+                    //set canShoot to false so that burger cannot continuously shoot
+                    canShoot = false;
+
                 }
             }
             
